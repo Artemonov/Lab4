@@ -1,0 +1,19 @@
+Tour: 2021, Kyiv city, 7 concerts
+Band: Ploho d - Petrov
+-------------------------------------------------------
+Tour: 2015, Lviv city, 4 concerts
+Band: Hundred - Vasilyi
+-------------------------------------------------------
+Tour: 2020, Zhytomyr city, 2 concerts
+Band: TableX - Kostenko
+-------------------------------------------------------
+Tour: 2019, Rivne city, 16 concerts
+Band: The best - Petrachenko
+-------------------------------------------------------
+Tour: 2017, Kharkiv city, 15 concerts
+Band: ACE of base - Galyna
+-------------------------------------------------------
+
+Tour: 2077, Chernivtsi city, 50 concerts
+Band: ARTEMENKO - MARKO
+-------------------------------------------------------
